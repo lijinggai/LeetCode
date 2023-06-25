@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\CoderLife\gitrepo\LeetCode\niuke_JZ69\源.cpp(35,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\CoderLife\gitrepo\LeetCode\niuke_JZ69\源.cpp(36,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  niuke_JZ69.vcxproj -> C:\CoderLife\gitrepo\LeetCode\niuke_JZ69\x64\Debug\niuke_JZ69.exe
